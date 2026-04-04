@@ -23,6 +23,8 @@ Why:
 
 ## Fastest way to use this pack
 
+Before doing anything else, watch the 2D and 3D tutorial videos in this repo for a full walkthrough of how to use these skills and workflows.
+
 ### Option 1 — Jam fast
 1. Pick one starter from `projects/`
 2. Copy it into a brand new repo/folder for your jam entry

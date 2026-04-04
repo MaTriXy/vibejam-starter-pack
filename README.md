@@ -28,11 +28,12 @@ If you want the broader ecosystem of projects, writeups, workflows, and whatever
 1. Download this repo or ZIP it.
 2. Open the repo root in Claude Code or your agent tool of choice.
 3. Read [START-HERE.md](START-HERE.md).
-4. Pick one lane:
+4. Watch the beginner-friendly 2D and 3D videos for a full walkthrough of how to use these skills and workflows.
+5. Pick one lane:
    - 2D Phaser
    - 3D Three.js
    - bonus asset workflow
-5. Copy a starter into a new working repo if you want a clean jam project.
+6. Copy a starter into a new working repo if you want a clean jam project.
 
 Important: open the repo root, not just a single project folder, if you want the shared skills to be visible to your agent.
 
