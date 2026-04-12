@@ -14,8 +14,8 @@
 
 - 4 standalone game starter projects
 - 1 bonus isometric sprite workflow repo
-- 6 battle-tested agent skills for game development — works with Codex, Claude Code, and Cursor
-- beginner-friendly full tutorial videos for both 2D and 3D workflows
+- 7 battle-tested agent skills for game development — works with Codex, Claude Code, and Cursor
+- 3 beginner-friendly full tutorial videos for both 2D and 3D workflows, and my general approach to gamedev
 
 This pack is designed for builders who want to move quickly during a jam without starting from a blank folder.
 
@@ -60,6 +60,8 @@ Notes:
   - https://youtu.be/ak0QkJjwK9U
 - 2D — Vibe Coding 2D Games with Agent Skills (Full Tutorial)
   - https://youtu.be/QPZCMd5REP8
+- How I'm Vibe Coding A Game For the Vibe Jam
+  - https://www.youtube.com/watch?v=yKyjcbQiar4
 
 ---
 
@@ -100,6 +102,7 @@ This pack dedupes the most reusable skills into one shared root.
 
 ### Claude Code
 - `.claude/skills/phaser-gamedev/`
+- `.claude/skills/phaser4-gamedev/`
 - `.claude/skills/playwright-testing/`
 - `.claude/skills/threejs-builder/`
 - `.claude/skills/tinyswords-tilemap/`
@@ -108,6 +111,7 @@ This pack dedupes the most reusable skills into one shared root.
 
 ### Agent-compatible
 - `.agents/skills/phaser-gamedev/`
+- `.agents/skills/phaser4-gamedev/`
 - `.agents/skills/playwright-testing/`
 - `.agents/skills/threejs-builder/`
 - `.agents/skills/tinyswords-tilemap/`
@@ -161,7 +165,7 @@ Most jam packs are either:
 This one is built around real repos that already proved useful publicly.
 
 You get examples for:
-- 2D Phaser architecture
+- 2D Phaser architecture (Phaser 3 + Phaser 4 migration)
 - Three.js static game deployment
 - GLTF asset pipelines
 - Playwright/canvas testing patterns
