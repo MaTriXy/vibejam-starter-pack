@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0] - 2026-04-15
+
+### Added
+
+- Retro Diffusion agent skill (`retro-diffusion`) — pixel-art image generation, img2img, spritesheets, and advanced animation workflows (walk, idle, attack, jump) from reference images
+- Model presets for `RD_PRO`, `RD_FAST`, `RD_PLUS`, and advanced animation styles
+- Inference, reference-prep, experiment-matrix, and spritesheet-extraction scripts (PEP 723, runnable with `uv run`)
+
+### Changed
+
+- Skill count updated from 7 to 8
+
 ## [1.2.0] - 2026-04-12
 
 ### Added
@@ -42,6 +54,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - START-HERE.md quick-start guide
 - Preview gallery in README
 
+[1.3.0]: https://github.com/chongdashu/vibejam-starter-pack/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/chongdashu/vibejam-starter-pack/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/chongdashu/vibejam-starter-pack/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/chongdashu/vibejam-starter-pack/releases/tag/v1.0.0

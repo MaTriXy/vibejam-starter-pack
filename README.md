@@ -14,7 +14,7 @@
 
 - 4 standalone game starter projects
 - 1 bonus isometric sprite workflow repo
-- 7 battle-tested agent skills for game development — works with Codex, Claude Code, and Cursor
+- 8 battle-tested agent skills for game development — works with Codex, Claude Code, and Cursor
 - 3 beginner-friendly full tutorial videos for both 2D and 3D workflows, and my general approach to gamedev
 
 This pack is designed for builders who want to move quickly during a jam without starting from a blank folder.
@@ -108,6 +108,7 @@ This pack dedupes the most reusable skills into one shared root.
 - `.claude/skills/tinyswords-tilemap/`
 - `.claude/skills/threejs-capacitor-ios/`
 - `.claude/skills/fal-ai-image/`
+- `.claude/skills/retro-diffusion/`
 
 ### Agent-compatible
 - `.agents/skills/phaser-gamedev/`
@@ -117,6 +118,7 @@ This pack dedupes the most reusable skills into one shared root.
 - `.agents/skills/tinyswords-tilemap/`
 - `.agents/skills/threejs-capacitor-ios/`
 - `.agents/skills/fal-ai-image/`
+- `.agents/skills/retro-diffusion/`
 
 Why this matters:
 - no duplicated skill folders hidden inside every project
@@ -173,6 +175,7 @@ You get examples for:
 - iOS export workflow skills for Three.js + Capacitor
 - prompt/process inspiration from the isometric sprite bonus repo
 - a reusable fal.ai image-generation skill for sprite workflow experimentation
+- a Retro Diffusion pixel-art skill for spritesheets, walk cycles, and animation workflows
 
 ---
 

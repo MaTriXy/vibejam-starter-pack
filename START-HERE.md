@@ -121,6 +121,7 @@ Both Claude and agent-compatible workflows get:
 - `tinyswords-tilemap`
 - `threejs-capacitor-ios`
 - `fal-ai-image`
+- `retro-diffusion`
 
 ## Beginner-friendly videos
 
